@@ -10,10 +10,10 @@ class DataBaseConfig
     public function __construct()
     {
 
-        $this->servername = 'localhost';
-        $this->username = 'root';
-        $this->password = '';
-        $this->databasename = 'test';
+        $this->servername = 'us-cdbr-east-02.cleardb.com';
+        $this->username = 'b6ed9554515aee';
+        $this->password = 'b68145f9';
+        $this->databasename = 'heroku_07f03b5f61c9817';
 
     }
 }
